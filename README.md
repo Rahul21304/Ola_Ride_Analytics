@@ -56,7 +56,7 @@ Over **15 SQL queries** were written to support business questions such as:
 - Top 5 customers by ride count and spend  
 - Ratings analysis by vehicle and time
 
-> 🔍 Check the full SQL script in `Ola.sql`
+
 
 ---
 
