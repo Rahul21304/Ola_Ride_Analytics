@@ -1,5 +1,5 @@
 # Ola_Ride_Analytics
-# 🚖 Ride Booking Data Analysis Project (Power BI + SQL)
+# 🚖 Ride Booking Data Analysis Project (Power BI + SQL + Excel)
 
 This project is an end-to-end data analytics case study based on a ride-booking dataset of over **100,000 records**, inspired by platforms like **OLA/Uber**. The goal is to extract meaningful business insights using **SQL for data exploration** and **Power BI for dashboard visualizations**.
 
