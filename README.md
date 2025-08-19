@@ -8,17 +8,31 @@ This project is an end-to-end data analytics case study based on a ride-booking 
 ## 📊 Dashboard Preview
 
 The interactive Power BI dashboard is organized into 5 cleanly structured pages:
-1. **Ride Overview** – Trends in bookings, status breakdown, and completion rates  
-2. **Vehicle & Distance Insights** – Top vehicle types, ride distance analysis, and average ratings  
-3. **Customer & Driver Analytics** – Top customers, ratings comparison, and behavior metrics  
-4. **Cancellations & Incomplete Rides** – Reasons, rates, and pickup/drop patterns  
-5. **Revenue & Payments** – Revenue trends, payment preferences, and booking value
+1. **Ride Overview** – Trends in bookings, status breakdown, and completion rates
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 201856" src="https://github.com/user-attachments/assets/54bf8854-6ade-445f-9dea-1fc13a40c06a" />
+---
 
+2. **Vehicle & Distance Insights** – Top vehicle types, ride distance analysis, and average ratings 
+ <img width="1920" height="1080" alt="Screenshot 2025-07-26 201917" src="https://github.com/user-attachments/assets/acd89d6c-04d7-45cd-905c-436285eb79dc" />
+---
+
+3. **Customer & Driver Analytics** – Top customers, ratings comparison, and behavior metrics 
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 201930" src="https://github.com/user-attachments/assets/d0a12df9-3b63-42b0-9457-755477b0001d" />
+---
+
+4. **Cancellations & Incomplete Rides** – Reasons, rates, and pickup/drop patterns  
+<img width="1920" height="1080" alt="Screenshot 2025-07-26 201957" src="https://github.com/user-attachments/assets/55c27127-1852-4d5d-9525-352163f2cdcb" />
+---
+
+5. **Revenue & Payments** – Revenue trends, payment preferences, and booking value
+ <img width="1920" height="1080" alt="Screenshot 2025-07-26 202008" src="https://github.com/user-attachments/assets/bb6927c6-9805-42e2-a939-26c1fa9a4696" />   
 ---
 
 ## 🧠 Key Insights Uncovered
 
-- 📈 Identified **peak ride times** and high-demand days  
+- 📈 Identified **peak ride times** and high-demand days 
+
+
 - 🚗 Ranked **top-performing vehicle types** by ride distance and revenue  
 - 🌟 Compared **customer vs. driver ratings** and highlighted rating patterns  
 - ❌ Analyzed **cancellation trends** and **incomplete ride reasons**  
